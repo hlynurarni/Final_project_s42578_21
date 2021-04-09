@@ -1,0 +1,25 @@
+storeName,storeAddress,avgRating,nrReviews,priceCategory,CousineType,Rank
+Maple Casual Dining,"Vesterbrogade 24, Copenhagen 1620 Denmark",5.0,237,$$ - $$$,"['International', 'European', 'Vegetarian Friendly']",#1
+Keyser Social,"Frederiksborggade 20d, Copenhagen 1360 Denmark",5.0,125,$$$$,"['Asian', 'Thai', 'Vegetarian Friendly']",#2
+Restaurant Krebsegaarden,"Studiestraede 17, Copenhagen 1455 Denmark",5.0,"1,403",$$$$,"['European', 'Scandinavian', 'Danish']",#3
+The Olive Kitchen & Bar,"Noerregade 22, Copenhagen 1165 Denmark",5.0,"2,413",$$ - $$$,"['International', 'European', 'Gluten Free Options']",#4
+Ark,"Noerre Farimagsgade 63, Copenhagen 1364 Denmark",5.0,277,$$ - $$$,"['European', 'Contemporary', 'Healthy']",#5
+Madbaren Marmorkirken,"Store Kongensgade 77, Copenhagen 1264 Denmark",5.0,249,$,"['Pizza', 'European', 'Vegetarian Friendly']",#6
+Smagsloeget (Vesterbro),"Vesterbrogade 19 Kobenhavn V, Copenhagen 1620 Denmark",5.0,465,$,"['Fast Food', 'International', 'Fusion']",#7
+The Shrimp,"Sankt Annae Plads 20, Copenhagen 1250 Denmark",5.0,159,$$ - $$$,"['Seafood', 'International', 'Vegetarian Friendly']",#8
+The Midwestern Diner,"Gyldenloevesgade 4, Copenhagen 1369 Denmark",5.0,210,$$ - $$$,"['American', 'Diner', 'Vegetarian Friendly']",#9
+Zahida,"Romersagde 20, Copenhagen 1362 Denmark",5.0,"1,247",$$ - $$$,"['Indian', 'Pakistani', 'Vegetarian Friendly']",#10
+Pizzeria Mamemi & Wine Bar,"Mysundegade 28, Copenhagen 1668 Denmark",5.0,"1,126",$,"['Italian', 'Pizza', 'Mediterranean']",#11
+Soelleroed Kro,"Soelleroedvej 35, Copenhagen 2840 Denmark",5.0,373,$$$$,"['French', 'International', 'Danish']",#12
+Punk Royale,"Dronningens Tvaergade 10, Copenhagen 1302 Denmark",5.0,128,$$$$,"['European', 'Scandinavian']",#13
+Limone Piazza,"Kejsergade 2, Copenhagen 1155 Denmark",5.0,149,$$ - $$$,"['Italian', 'Mediterranean', 'European']",#14
+Jurfood,"Oresundsvej 150D, Copenhagen 2300 Denmark",5.0,266,$$ - $$$,"['Cafe', 'European', 'Danish']",#15
+The Pescatarian,"Amaliegade 49 On the corner of Amaliegade & Esplanaden, Copenhagen 1256 Denmark",5.0,357,$$$$,"['Seafood', 'European', 'Healthy']",#16
+Hey Darling,"Oster Farimagsgade 24, Copenhagen 2100 Denmark",5.0,126,$$ - $$$,"['American', 'International', 'European']",#17
+Alchemist,"Refshalevej 173c, Copenhagen 1432 Denmark",5.0,103,$$$$,"['International', 'European', 'Contemporary']",#18
+Marv & Ben,"Snaregade 4, Copenhagen 1205 Denmark",4.5,777,$$$$,"['European', 'Scandinavian', 'Danish']",#19
+Enomania,"Vesterbrogade 187, Frederiksberg, Copenhagen 1800 Denmark",4.5,277,$$ - $$$,"['Italian', 'European', 'Wine Bar']",#1
+Restaurant Komplet,"A Krystalgade 9, Copenhagen 1172 Denmark",4.5,470,$$ - $$$,"['Danish', 'Gluten Free Options']",#20
+Souls,"Melchiors Plads 3 Shop 6, Copenhagen 2100 Denmark",4.5,765,$$ - $$$,"['Cafe', 'European', 'Healthy']",#21
+Geranium,"Per Henrik Lings Alle 4, 8., Copenhagen Denmark",4.5,"1,106",$$$$,"['European', 'Scandinavian', 'Danish']",#22
+Banana Joe,"Elmegade 18, Copenhagen 2200 Denmark",4.5,441,$,"['American', 'Fast Food', 'Vegetarian Friendly']",#23
