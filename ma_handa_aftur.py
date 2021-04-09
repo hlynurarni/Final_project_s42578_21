@@ -6,7 +6,7 @@ import time
 import sys
 import argparse
 import string
-
+ hihi helga is here 
 
 
 pathToReviews = "TripReviews.csv"
