@@ -1,0 +1,98 @@
+storeName,storeAddress,avgRating,nrReviews,priceCategory,CousineType,Rank
+Banana Joe,"Elmegade 18, Copenhagen 2200 Denmark",4.5,441,$,"['American', 'Fast Food', 'Vegetarian Friendly']",#23
+Trattoria SUD,"Frederiksborggade 27 Close to Nørreport station and Israels Plads, Copenhagen 1360 Denmark",4.5,482,$$ - $$$,"['Italian', 'Mediterranean', 'Vegetarian Friendly']",#24
+Mielcke & Hurtigkarl,"Fr.Berg Runddel 1, Frederiksberg, Copenhagen 2000 Denmark",4.5,278,$$$$,"['International', 'European', 'Contemporary']",#2
+Cafe Patina,"Mysundegade 26 Tæt på metro station Enghave Plads, Copenhagen 1668 Denmark",4.5,126,$$ - $$$,"['Mediterranean', 'European', 'Greek']",#25
+Restaurant Schonnemann,"Haydee Plads 16-28, Copenhagen 1127 Denmark",4.5,209,$$ - $$$,"['Scandinavian', 'Danish', 'Gluten Free Options']",#26
+Husmann's Vinstue,"Larsbjoernsstraede 2, Copenhagen 1454 Denmark",4.5,292,$$ - $$$,"['European', 'Scandinavian', 'Danish']",#27
+Restaurant leaven,"Ny Adelgade 4, Copenhagen 1104 Denmark",4.5,347,$$$$,"['French', 'Seafood', 'Wine Bar']",#28
+The Red Box,"Store Kongensgade 42, Copenhagen 1264 Denmark",4.5,535,$$ - $$$,"['French', 'Asian', 'Fusion']",#29
+Restaurant Gronnegade,"Groennegade 39, Copenhagen 1107 Denmark",4.5,593,$$$$,"['Seafood', 'Scandinavian', 'Danish']",#30
+Studio - The Standard,"Havnegade 44, Copenhagen 1058 Denmark",4.5,466,$$$$,"['European', 'Scandinavian', 'Danish']",#31
+Kong Hans Kaelder,"Vingaardstraede 6, Copenhagen 1070 Denmark",4.5,301,$$$$,"['French', 'European', 'Scandinavian']",#32
+Basso København,"Dronningens Tvaergade 22, Copenhagen 1302 Denmark",4.5,495,$$ - $$$,"['Italian', 'European', 'Vegetarian Friendly']",#33
+Høst,"Noerre Farimagsgade 41, Copenhagen 1364 Denmark",4.5,"2,196",$$$$,"['Contemporary', 'Healthy', 'Scandinavian']",#34
+Ché Fè Trattoria,"Borgergade 17A, Copenhagen 1300 Denmark",4.5,625,$$ - $$$,"['Italian', 'Sicilian', 'Southern-Italian']",#35
+Restaurant Frederiks Have,"Smallegade 41, Frederiksberg, Copenhagen 2000 Denmark",4.5,559,$$$$,"['International', 'European', 'Scandinavian']",#3
+Ravnsborg Kitchen & Bar,"Ravnsborggade 1, Copenhagen 2200 Denmark",4.5,538,$$ - $$$,"['Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",#36
+Temporada Tapas-Bar,"Aaboulevard 23 Frederiksberg, Copenhagen 2000 Denmark",4.5,306,$$ - $$$,"['Mediterranean', 'European', 'Spanish']",#37
+Chao Viet Kitchen,"Kattesundet 8 Indre By, Copenhagen 1458 Denmark",4.5,586,$,"['Asian', 'Vietnamese', 'Healthy']",#38
+Restaurant Tight,"Hyskenstraede 10, Copenhagen 1207 Denmark",4.5,"3,003",$$ - $$$,"['Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",#39
+Feed Bistro,"Faelledvej 5, Copenhagen 2200 Denmark",4.5,612,$$ - $$$,"['European', 'Scandinavian', 'Danish']",#40
+Bowl Market Copenhagen,"Gasvaerksvej 3, Copenhagen 1656 Denmark",4.5,138,$$ - $$$,"['Cafe', 'Healthy', 'Vegetarian Friendly']",#41
+Cofoco,"Abel Cathrines Gade 7, Copenhagen 1654 Denmark",4.5,"1,116",$$ - $$$,"['Contemporary', 'Gastropub', 'Scandinavian']",#42
+Bastard Café,"Raadhusstraede 13, Copenhagen 1466 Denmark",4.5,288,$,"['Quick Bites', 'Bar', 'Cafe']",#43
+Restaurant Nepali Bhancha,"H.C. Oersteds Vej 50 D, Copenhagen 1879 Denmark",4.5,240,$$ - $$$,"['Nepali', 'Vegetarian Friendly', 'Vegan Options']",#44
+Restaurant Amalie,"Amaliegade 11, Copenhagen 1256 Denmark",4.5,432,$$ - $$$,"['European', 'Scandinavian', 'Danish']",#45
+Noma,"Refshalevej 96, Copenhagen 1432 Denmark",4.5,"1,710",$$$$,"['Contemporary', 'Healthy', 'Vegetarian Friendly']",#46
+Garden Restaurant & Wine bar,"Gothersgade 87 Basement, Copenhagen 1123 Denmark",4.5,195,$$ - $$$,"['European', 'Scandinavian', 'Danish']",#47
+Restaurant Under Uret,"Oster Farimagsgade 4, Copenhagen 2100 Denmark",4.5,184,$$ - $$$,"['European', 'Scandinavian', 'Danish']",#48
+Sporvejen,"Graabroedretorv 17, Copenhagen 1154 Denmark",4.5,"1,056",$,"['American', 'Bar', 'European']",#49
+Sankt Annae 8,"Wildersgade 52, Copenhagen Denmark",4.5,221,$$ - $$$,"['European', 'Wine Bar', 'Danish']",#50
+Vaekst,"Skt. Peders Straede 34, Copenhagen 1453 Denmark",4.5,639,$$$$,"['Contemporary', 'Healthy', 'Scandinavian']",#51
+Kadeau Copenhagen,"Wildersgade 10B Christianhavn, Copenhagen 1408 Denmark",4.5,306,$$$$,"['European', 'Scandinavian', 'Danish']",#52
+RetroGusto,"Vesterbrogade 31 Vesterbrogade 31,, Copenhagen 1620 Denmark",4.5,636,$$ - $$$,"['Italian', 'Mediterranean', 'European']",#53
+Restaurant Schoennemann,"Hauser Plads 16, Copenhagen 1127 Denmark",4.5,757,$$ - $$$,"['European', 'Scandinavian', 'Danish']",#54
+KöD Vesterbro,"Vesterbrogade 33, Copenhagen 1620 Denmark",4.5,961,$$ - $$$,"['Steakhouse', 'Barbecue', 'European']",#55
+Morgenstedet,"Fabriksomraadet 134, Copenhagen 1440 Denmark",4.5,254,$,"['Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",#56
+Restaurant Radio,"Julius Thomsens Gade 12, Copenhagen Denmark",4.5,888,$$$$,"['European', 'Scandinavian', 'Danish']",#57
+Frenchy,"Hyskenstraede 16, Copenhagen 1264 Denmark",4.5,220,$$ - $$$,"['French', 'Cafe', 'European']",#58
+San Marco Junior,"Falkoner Alle 10 Over for falkonersalen, Frederiksberg, Copenhagen 2000 Denmark",4.5,178,$$ - $$$,"['Italian', 'European', 'Central European']",#4
+Chez Bruno,"Gammel Kongevej 27, St, Copenhagen 1610 Denmark",4.5,416,$$ - $$$,"['French', 'European', 'Vegetarian Friendly']",#59
+KöD Copenhagen,"Admiralgade 25, Copenhagen 1066 Denmark",4.5,"1,143",$$ - $$$,"['Steakhouse', 'Barbecue', 'European']",#60
+Kiin Kiin,"Guldbergsgade 21, Copenhagen 2200 Denmark",4.5,832,$$$$,"['Asian', 'Thai', 'Vegetarian Friendly']",#61
+Mad & Kaffe,"Soender Boulevard 68 Koebenhavn V, Copenhagen 1720 Denmark",4.5,616,$$ - $$$,"['Cafe', 'European', 'Healthy']",#62
+BENTO Restaurant & Cocktail Bar,"Helgolandsgade 16, Copenhagen 1653 Denmark",4.5,304,$$ - $$$,"['Japanese', 'Asian', 'Vegetarian Friendly']",#63
+Restaurant Ravelinen,"Torvegade 79, Copenhagen 1400 Denmark",4.5,452,$$ - $$$,"['European', 'Scandinavian', 'Danish']",#64
+Toto Vin & Spisebar,"Amagerbrogade 145, Copenhagen 2300 Denmark",5.0,106,$$ - $$$,"['European', 'Wine Bar', 'Vegetarian Friendly']",#66
+Khun Juk Oriental,"Store Kongensgade 9 Backyard, Copenhagen Denmark",4.5,861,$$ - $$$,"['Asian', 'Thai', 'Vegetarian Friendly']",#65
+L'Enoteca di Mr. Brunello Restaurant & Wine Shop,"Rysensteensgade 16, Copenhagen 1564 Denmark",4.5,236,$$$$,"['Italian', 'Mediterranean', 'European']",#67
+Nebbiolo Winebar,"Store Strandstraede 18B, Copenhagen 1255 Denmark",4.5,153,$$ - $$$,"['Italian', 'European', 'Wine Bar']",#68
+Norrlyst,"Kompagnistraede 8, Copenhagen 1208 Denmark",5.0,115,$$ - $$$,"['Contemporary', 'Healthy', 'Scandinavian']",#69
+Den Lille Fede Restaurant,"Store Kongensgade 17, Copenhagen 1264 Denmark",4.5,757,$$$$,"['European', 'Central European', 'Scandinavian']",#70
+Mikkeller & Friends,"Stefansgade 35, Copenhagen Denmark",4.5,258,$$ - $$$,['Pub'],#71
+Halifax København K,"Larsbjoernsstraede 9, Copenhagen 1454 Denmark",4.5,277,$$ - $$$,"['American', 'Bar', 'Vegetarian Friendly']",#72
+Ristorante Buono,"Abel Cathrines Gade 21, Copenhagen 1654 Denmark",4.5,216,$$ - $$$,"['Italian', 'Mediterranean', 'European']",#73
+Stempel - Bar & Kitchen,"Enghave Plads 2, Copenhagen 1670 Denmark",4.5,315,$$ - $$$,"['Bar', 'Cafe', 'International']",#74
+Cafe Gammel Torv,"Gammeltorv 20, Copenhagen 1457 Denmark",4.5,223,$$ - $$$,"['Scandinavian', 'Danish']",#75
+Pony,"Vesterbrogade 135, Copenhagen 1620 Denmark",4.5,286,$$$$,"['European', 'Scandinavian', 'Danish']",#76
+simpleRAW,"Graabroedretorv 9, Copenhagen 1154 Denmark",4.5,256,$$ - $$$,"['European', 'Healthy', 'Vegetarian Friendly']",#77
+Mikkeller Bar,"Viktoriagade 8 BC 1655, Copenhagen 1655 Denmark",4.5,891,$$ - $$$,"['Brew Pub', 'Pub', 'Danish']",#78
+Sticks'n'Sushi,"Nansensgade 59, Copenhagen 1366 Denmark",4.5,449,$$ - $$$,"['Japanese', 'Seafood', 'Sushi']",#79
+Aamanns Etablissement,"Oster Farimagsgade 12, Copenhagen 2100 Denmark",4.5,197,$$ - $$$,"['Scandinavian', 'Danish', 'Vegetarian Friendly']",#80
+Aamanns 1921,"Niels Hemmingsens Gade 19-21, Copenhagen 1153 Denmark",4.5,286,$$ - $$$,"['Scandinavian', 'Danish', 'Vegetarian Friendly']",#81
+Restaurant Palaegade,"Palaegade 8, Copenhagen 1261 Denmark",4.5,361,$$ - $$$,"['European', 'Scandinavian', 'Danish']",#82
+AOC,"Dronningens Tvaergade 2, Copenhagen 1302 Denmark",4.5,341,$$$$,"['European', 'Scandinavian', 'Danish']",#83
+Restaurant 1733,"Nybrogade 14, Copenhagen 1203 Denmark",5.0,108,$$ - $$$,"['European', 'Scandinavian', 'Danish']",#85
+Told&Snaps,"Toldbodgade 2, Copenhagen Denmark",4.5,587,$$ - $$$,"['European', 'Scandinavian', 'Danish']",#84
+Restaurant Koefoed,"Landgreven 3, Copenhagen 1301 Denmark",4.5,699,$$$$,"['European', 'Scandinavian', 'Danish']",#86
+H table,"Gyldenloevesgade 10, Copenhagen 1369 Denmark",5.0,72,$$ - $$$,"['Chinese', 'Asian', 'Vegetarian Friendly']",#87
+Le Pave,"Graabroedretorv 14, Copenhagen 1154 Denmark",4.5,291,$$ - $$$,"['French', 'European', 'Vegetarian Friendly']",#88
+Amass,"Refshalevej 153, Copenhagen 1432 Denmark",4.5,634,$$$$,"['Contemporary', 'Scandinavian', 'Danish']",#89
+El Meson,"Hauser Plads 12, Copenhagen 1127 Denmark",4.5,302,$$ - $$$,"['Mediterranean', 'European', 'Spanish']",#90
+Flottenheimer,"Skindergade 20, Copenhagen 1159 Denmark",4.5,405,$$ - $$$,"['Cafe', 'European', 'Scandinavian']",#91
+Groed,"Jaegersborggade 50, Tv., Copenhagen 2200 Denmark",4.5,253,$,"['Cafe', 'European', 'Scandinavian']",#92
+Asador,"Overg. Neden Vandet 17, Copenhagen 1414 Denmark",4.5,477,$$ - $$$,"['Steakhouse', 'Latin', 'Barbecue']",#93
+Formel B,"Vesterbrogade 182, Copenhagen 1800 Denmark",4.5,632,$$$$,"['European', 'Scandinavian', 'Danish']",#94
+Sticks'n'Sushi,"Istedgade 62, Copenhagen 1650 Denmark",4.5,328,$$ - $$$,"['Japanese', 'Sushi', 'Asian']",#95
+Fleisch,"Slagterboderne 7 Kødbyen, Copenhagen 1716 Denmark",4.5,467,$$ - $$$,"['Scandinavian', 'Danish', 'Gluten Free Options']",#96
+Aamanns Deli & Take Away,"Oester Farimagsgade 10, Copenhagen 2100 Denmark",4.5,630,$$ - $$$,"['Scandinavian', 'Danish', 'Vegetarian Friendly']",#97
+Ristorante Da Claudio,"Godthaabsvej 42, Frederiksberg, Copenhagen 2000 Denmark",4.5,278,$$ - $$$,"['Italian', 'Mediterranean', 'European']",#5
+Ristorante Italiano,"Fiolstraede 2, Copenhagen 1171 Denmark",4.0,"1,191",$$ - $$$,"['Italian', 'Pizza', 'European']",#98
+Selma,"Romersgade 20, Copenhagen 1362 Denmark",4.5,121,$$ - $$$,"['European', 'Scandinavian', 'Danish']",#99
+Restaurant Karla,"Dantes Plads 1, Copenhagen 1556 Denmark",4.5,"1,036",$$ - $$$,"['European', 'Scandinavian', 'Danish']",#100
+Spaghetteria La Perla,"Landemaerket 27, Copenhagen 1119 Denmark",4.5,603,$$ - $$$,"['Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",#101
+Restaurant U Formel,"Studiestraede 69, Copenhagen 1609 Denmark",4.5,529,$$$$,"['European', 'Scandinavian', 'Danish']",#102
+Restaurant Kronborg,"Brolaeggerstraede 12, Copenhagen 1211 Denmark",4.5,522,$$ - $$$,"['Scandinavian', 'Danish', 'Vegetarian Friendly']",#103
+Damindra Restaurant,"Holbergsgade 26 Copenhagen C, Copenhagen 1054 Denmark",4.5,509,$$$$,"['Japanese', 'Sushi', 'Asian']",#104
+Christianshavns Faergecafé,"Strandgade 50, Copenhagen 1401 Denmark",4.5,496,$$ - $$$,"['Seafood', 'European', 'Diner']",#105
+Fuego,"Holbergsgade 14, Copenhagen 1057 Denmark",4.5,729,$$$$,"['Steakhouse', 'Latin', 'Argentinean']",#106
+Sticks'n'Sushi,"Borgergade 13, Copenhagen 1300 Denmark",4.5,292,$$ - $$$,"['Japanese', 'Seafood', 'Sushi']",#107
+Restaurant Kanalen,"Wilders Plads 2, Copenhagen 1403 Denmark",4.5,429,$$$$,"['European', 'Scandinavian', 'Danish']",#108
+Kompasset,"Nyhavn 65, Copenhagen 1051 Denmark",4.5,307,$$ - $$$,"['European', 'Scandinavian', 'Danish']",#109
+Sidecar,"Skyttegade 5, Copenhagen 2200 Denmark",4.5,157,$$ - $$$,"['Cafe', 'Asian', 'Street Food']",#110
+Sidecar,"Skyttegade 5, Copenhagen 2200 Denmark",4.5,157,$$ - $$$,"['Cafe', 'Asian', 'Street Food']",#110
+Plectrum Vesterbro Restaurant,"Vesterbrogade 23/29, Copenhagen 1620 Denmark",4.5,545,$$ - $$$,"['Bar', 'European', 'Central European']",#111
+Hallernes,"Torvehallernes - Hal 1 Roemersgade 18, Copenhagen Denmark",4.5,265,$$ - $$$,"['Fast Food', 'European', 'Scandinavian']",#112
+Krogs Fish Restaurant,"Gammel Strand 38, Copenhagen 1202 Denmark",4.5,329,$$$$,"['Seafood', 'European', 'Scandinavian']",#113
+Krogs Fish Restaurant,"Gammel Strand 38, Copenhagen 1202 Denmark",4.5,329,$$$$,"['Seafood', 'European', 'Scandinavian']",#113
