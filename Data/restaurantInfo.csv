@@ -1,7 +1,5 @@
 storeName,storeAddress,avgRating,nrReviews,priceCategory,CousineType,Rank,all_ranks,all_ratings
 Krogs Fish Restaurant,"Gammel Strand 38, Copenhagen 1202 Denmark",4.5,329,$$$$,"['Seafood', 'European', 'Scandinavian']",#113,"['#8 of 82 Seafood in Copenhagen', '#113 of 1,971 Restaurants in Copenhagen']","[('Food', 4.5), ('Service', 4.5), ('Value', 4.0)]"
-storeName,storeAddress,avgRating,nrReviews,priceCategory,CousineType,Rank,all_ranks,all_ratings
-storeName,storeAddress,avgRating,nrReviews,priceCategory,CousineType,Rank,all_ranks,all_ratings
 Maple Casual Dining,"Vesterbrogade 24, Copenhagen 1620 Denmark",5.0,237,$$ - $$$,"['International', 'European', 'Vegetarian Friendly']",#1,"['#1 of 95 International in Copenhagen', '#1 of 1,971 Restaurants in Copenhagen']","[('Food', 5.0), ('Service', 5.0), ('Value', 4.5)]"
 Keyser Social,"Frederiksborggade 20d, Copenhagen 1360 Denmark",5.0,125,$$$$,"['Asian', 'Thai', 'Vegetarian Friendly']",#2,"['#1 of 226 Asian in Copenhagen', '#2 of 1,971 Restaurants in Copenhagen']","[('Food', 5.0), ('Service', 5.0), ('Value', 5.0)]"
 Restaurant Krebsegaarden,"Studiestraede 17, Copenhagen 1455 Denmark",5.0,"1,403",$$$$,"['European', 'Scandinavian', 'Danish']",#3,"['#2 of 840 European in Copenhagen', '#3 of 1,971 Restaurants in Copenhagen']","[('Food', 5.0), ('Service', 5.0), ('Value', 4.5), ('Atmosphere', 4.5)]"
